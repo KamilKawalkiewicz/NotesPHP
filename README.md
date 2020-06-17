@@ -5,7 +5,7 @@
 Its NotesPHP.
 
 In this project i can learning basic of PHP.
-This application based on CRUD and MVC. So you can create, read, update and delete your notes and its 
+This application based on CRUD and MVC. So you can create, read, update and delete your note and its 
 cooperates with data base MySQL
 
 ## Technologies
